@@ -1,11 +1,16 @@
 body {
   font-family: Arial, sans-serif;
-  text-align: center;
-  background-color: #222;
+  background-color: #1e1e1e;
   color: white;
+  text-align: center;
+  margin-top: 20px;
 }
 
 canvas {
   background-color: #000;
   border: 2px solid #fff;
+}
+
+#score {
+  font-size: 18px;
 }
